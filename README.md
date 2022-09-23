@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Hazm</h1>
 <h3 align="left">Recently...</h3>
 
-- 🌱 I’m currently learning **a deep dive into Matplotlib and Seaborn**
+- 🌱 I’m currently learning Tableau and Google Analytics!
 
 - 📫 Reach me at **hazmmmm@gmail.com**
 
